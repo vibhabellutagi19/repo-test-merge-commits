@@ -6,3 +6,4 @@
 4. test5
 5. test6
 6. feature 1
+7. feature 2
